@@ -24,16 +24,6 @@ This Network Protocol Analyzer captures and logs network traffic in real-time us
 
 * **Scapy:** A powerful Python library for network packet manipulation and analysis. 📡
 
-## Ideal For
-
-* **Network Administrators:** Monitoring and analyzing network traffic for troubleshooting and security. 🧑‍💻
-
-* **Security Researchers:**  Investigating network communications and potential threats. 🕵️‍♀️
-
-* **Network Engineers:**  Analyzing network protocols and performance. 👨‍💼
-
-* **Python Developers:** Learning about network programming and packet analysis with Scapy. 🧑‍🎓
-
 ## How to Run
 
 1. **Clone the repository:** `git clone <repo url>`
